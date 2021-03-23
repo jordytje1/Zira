@@ -1,6 +1,6 @@
 {
   "name": "zira",
-  "version": "2.0.2",
+  "version": "v14.15.4",
   "description": "Zira is a reaction role Discord bot that allows users to give themselves roles by reacting on messages with an emoji/emote.",
   "main": "Zira.js",
   "scripts": {
